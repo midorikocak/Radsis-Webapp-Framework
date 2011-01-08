@@ -1,5 +1,7 @@
 # Radsis Framework for Web Applications #
 
+Demo: http://www.qopil.com/webapp
+
 This collection of compatible pack of Blueprint CSS, Javascript and Jquery plugins, allows you to create your web apps layout rapidly.
 
 Blueprint CSS Framework allows you to create 960 grid system, compatible with Jquery UI, JQGrid.
@@ -25,7 +27,7 @@ Since it is a collection of redistributable packs of open source software, all f
 
 ## Copyright ###
 
-    Copyright (C) 2010  Mutlu Tevfik Koçak
+    Copyright (C) 2010  Mutlu Tevfik Koï¿½ak
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
