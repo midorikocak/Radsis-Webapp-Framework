@@ -42,4 +42,4 @@ Since it is a collection of redistributable packs of open source software, all f
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 	
-http://www.mtkocak.net<br/>
+<a href="http://www.mtkocak.net"><strong>http://www.mtkocak.net</strong></a>
