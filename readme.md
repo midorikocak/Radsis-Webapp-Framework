@@ -1,6 +1,6 @@
 # Radsis Framework for Web Applications #
 
-Demo: http://www.qopil.com/webapp
+<a href="http://www.qopil.com/webapp"><strong>DEMO</strong></a>
 
 This collection of compatible pack of Blueprint CSS, Javascript and Jquery plugins, allows you to create your web apps layout rapidly.
 
